@@ -1,0 +1,3 @@
+nev: Kálmán Zoltán
+szak: MérnökInformatika
+neptun-kod: LJ4HGU
